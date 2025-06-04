@@ -156,8 +156,7 @@ source ~/.bashrc
 
 </div>
 
- 🪜Step-1) Move to Aztec Screen
-
+ 🪜Step-1) Move to Aztec Screen 
 
 ```
 screen -r aztec
@@ -168,15 +167,16 @@ screen -r aztec
 
 🪜Step-3) Update with-:
 
-
 ```
 aztec-up latest
 ```
 
-
  🪜 Step-4) Start your node with `Start` command: 
 
+
 * 📣Note-: If your logs are like this: Then you are good to go: Your sequencers working fine: 
+
+ 
 
 ![image](https://github.com/user-attachments/assets/b2f16ac1-1caa-4f35-9666-885bc11558d3)
 
